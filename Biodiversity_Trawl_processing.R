@@ -3,7 +3,7 @@ require(lubridate)
 require(geosphere)
 
 # directory of all biodiversity trawl data
-  files <- list.files("C:/Users/kraskape/Documents/1-Data/AndrewCooper/BiodiversityTrawl/",
+  files <- list.files("data/BiodiversityTrawl/",
                       full.names = TRUE)
 
 # list all files for each type of csv

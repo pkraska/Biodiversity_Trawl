@@ -1,0 +1,34 @@
+Biodiversity _Header,,,,,,,,,,,,,,
+FILE_SPECIFICATION=,,,,,,,,,,,,,,
+PROJECT_DESCRIPTION=Biodiversity trawl survey for the Passamaquoddy Bay and Fundy Isles area,,,,,,,,,,,,,,
+PLATFORM=CCGS Viola M Davidson,,,,,,,,,,,,,,
+DATA_TYPE=Set information,,,,,,,,,,,,,,
+"VARIABLES,",,,,,,,,,,,,,,
+MISSION=Unique mission identification code for each trawl year,,,,,,,,,,,,,,
+SETNO=Unique identification code for each set within a trawl year,,,,,,,,,,,,,,
+"STATION=One of four trawl areas A-River Area, B-Upper Passamaquoddy Bay Area, C-Lower Passamaquoddy Bay Area, D-Outer Passamaquoddy Bay Area",,,,,,,,,,,,,,
+DATE_START=Date of trawl,,,,,,,,,,,,,,
+TIME_START=Time trawl began,,,,,,,,,,,,,,
+TIME_FINISH=Time trawl finished,,,,,,,,,,,,,,
+LATITUDE_START=Latitudinal coordinates in decimal degrees where trawl began ,,,,,,,,,,,,,,
+LONGITUDE_START=Longitudinal coordinates in decimal degrees where trawl began,,,,,,,,,,,,,,
+LATITUDE_FINISH=Latitudinal coordinates in decimal degrees where trawl ended,,,,,,,,,,,,,,
+LONGITUDE_FINISH=Longitudinal coordinates in decimal degrees where trawl ended,,,,,,,,,,,,,,
+DEPTH_START=Beginning trawl depth in metres,,,,,,,,,,,,,,
+DEPTH_FINISH=End trawl depth in metres,,,,,,,,,,,,,,
+SPEED=Trawl speed in knots,,,,,,,,,,,,,,
+TEMP_TRWL_AVE=average temperature of trawl at cod end,,,,,,,,,,,,,,
+DEPTH_TRWL_AVE=average depth of trawl at cod end,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+MISSION,SETNO ,STATION,DATE_START,TIME_START,TIME_FINISH,LATITUDE_START,LONGITUDE_START,LATITUDE_FINISH,LONGITUDE_FINISH,DEPTH_START,DEPTH_FINISH,SPEED,DEPTH_TRWL_AVE,TEMP_TRWL_AVE
+BOF2011001,2011.001,B,21/07/2011,9:47:00,10:21:00,45.0837,-66.9504,45.0994,-66.9716,56,32,2.4,41.89,10.95
+BOF2011001,2011.002,C,21/07/2011,13:25:00,13:55:00,45.0183,-67.0397,45.0507,-67.0265,36,20,2.4,26.7,11.18
+BOF2011001,2011.003,A,22/07/2011,11:28:00,11:58:00,45.0655,-67.0848,45.0499,-67.07,24,26,2.4,25.51,11.19
+BOF2011001,2011.004,A,22/07/2011,13:02:00,13:32:00,45.1216,-67.119,45.1058,-67.107,25,27,2.4,26.25,11.64
+BOF2011001,2011.005,B,18/08/2011,9:22:00,9:52:00,45.0695,-66.9578,45.0909,-66.9584,47,39,2.6,46.9,12.43
+BOF2011001,2011.006,D,18/08/2011,13:26:00,13:56:00,44.9985,-66.775,44.9874,-66.7483,55,64,2.4,58.07,10
+BOF2011001,2011.007,B,19/08/2011,9:35:00,9:56:00,45.1154,-66.9256,45.1145,-66.944,10,16,2.4,12.49,12.76
+BOF2011001,2011.008,C,19/08/2011,11:05:00,11:35:00,45.0334,-67.0473,45.0393,-67.0293,23,19,2.4,21.09,12.57
+BOF2011001,2011.009,B,15/09/2011,9:34:00,10:04:00,45.0719,-66.9473,45.0896,-66.9385,51,37,2.4,58.76,12.83
